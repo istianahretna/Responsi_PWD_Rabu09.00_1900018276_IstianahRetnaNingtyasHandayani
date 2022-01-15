@@ -1,0 +1,11 @@
+.nav-link:hover{
+    background-color: grey;
+}
+.hoverr {
+    margin-right: 30px;
+    position: center;
+}
+
+.ul{
+    height: 1000px;
+}
